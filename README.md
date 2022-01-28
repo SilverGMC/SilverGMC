@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Silver
+- 👀 I’m interested in Discord Bots
+- 🌱 I’m currently learning JS and PY
+- 📫 silver#5233
